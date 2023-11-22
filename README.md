@@ -1,9 +1,12 @@
 # Randomized-MCQ-Quiz-Game
 # C# Windows Form App
 
-- Randomized MCQ Quiz game about anime
-- There are two buttons 50:50 and a hint
-- 50:50 removes two inncorect answers to give the player a fifty fifty chance 
-- Hint button displays a caption giving a hint on what the answer could be
-- Scoreboard keeping track of what answers you got correct or not
-- Keeps track of player name
+-Developed an anime-themed MCQ Quiz game featuring random questions.
+-Includes interactive 50:50 and hint buttons to assist players.
+-The 50:50 option removes two incorrect answers, enhancing the chances of a correct guess.
+-The hint button provides suggestive clues for potential answers.
+-Features a scoreboard to track correct and incorrect responses.
+-Includes a player name tracker for personalized gameplay experience.
+
+
+
